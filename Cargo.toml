@@ -2,6 +2,14 @@
 name = "bsc_m03_sys"
 version = "0.1.0"
 edition = "2024"
+authors = ["Voxell Paladynee <paladyneshadow@gmail.com>"]
+description = "A short description of the bsc_m03_sys crate."
+license = "MIT"
+repository = "https://github.com/Paladynee/bsc_m03_sys"
+homepage = "https://github.com/Paladynee/bsc_m03_sys"
+documentation = "bindings for bsc_m03"
+keywords = ["system", "bindings"]
+categories = ["external-ffi-bindings"]
 
 [dependencies]
 
